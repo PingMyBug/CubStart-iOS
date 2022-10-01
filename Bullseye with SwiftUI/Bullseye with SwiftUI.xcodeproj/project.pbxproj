@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F5BC6AAD27BE694700B55188 /* _SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5BC6AAC27BE694700B55188 /* _SwiftUIApp.swift */; };
-		F5BC6AAF27BE694700B55188 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5BC6AAE27BE694700B55188 /* ContentView.swift */; };
-		F5BC6AB127BE694800B55188 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5BC6AB027BE694800B55188 /* Assets.xcassets */; };
-		F5BC6AB427BE694800B55188 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5BC6AB327BE694800B55188 /* Preview Assets.xcassets */; };
+		F5BC6AC727BE69A600B55188 /* Bullseye_with_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5BC6AC627BE69A600B55188 /* Bullseye_with_SwiftUIApp.swift */; };
+		F5BC6AC927BE69A600B55188 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5BC6AC827BE69A600B55188 /* ContentView.swift */; };
+		F5BC6ACB27BE69A700B55188 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5BC6ACA27BE69A700B55188 /* Assets.xcassets */; };
+		F5BC6ACE27BE69A700B55188 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5BC6ACD27BE69A700B55188 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F5BC6AA927BE694700B55188 /*  SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = " SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F5BC6AAC27BE694700B55188 /* _SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _SwiftUIApp.swift; sourceTree = "<group>"; };
-		F5BC6AAE27BE694700B55188 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		F5BC6AB027BE694800B55188 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F5BC6AB327BE694800B55188 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F5BC6AC327BE69A600B55188 /* Bullseye with SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bullseye with SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F5BC6AC627BE69A600B55188 /* Bullseye_with_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bullseye_with_SwiftUIApp.swift; sourceTree = "<group>"; };
+		F5BC6AC827BE69A600B55188 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F5BC6ACA27BE69A700B55188 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F5BC6ACD27BE69A700B55188 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F5BC6AA627BE694700B55188 /* Frameworks */ = {
+		F5BC6AC027BE69A600B55188 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,37 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F5BC6AA027BE694700B55188 = {
+		F5BC6ABA27BE69A600B55188 = {
 			isa = PBXGroup;
 			children = (
-				F5BC6AAB27BE694700B55188 /*  SwiftUI */,
-				F5BC6AAA27BE694700B55188 /* Products */,
+				F5BC6AC527BE69A600B55188 /* Bullseye with SwiftUI */,
+				F5BC6AC427BE69A600B55188 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F5BC6AAA27BE694700B55188 /* Products */ = {
+		F5BC6AC427BE69A600B55188 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F5BC6AA927BE694700B55188 /*  SwiftUI.app */,
+				F5BC6AC327BE69A600B55188 /* Bullseye with SwiftUI.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F5BC6AAB27BE694700B55188 /*  SwiftUI */ = {
+		F5BC6AC527BE69A600B55188 /* Bullseye with SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				F5BC6AAC27BE694700B55188 /* _SwiftUIApp.swift */,
-				F5BC6AAE27BE694700B55188 /* ContentView.swift */,
-				F5BC6AB027BE694800B55188 /* Assets.xcassets */,
-				F5BC6AB227BE694800B55188 /* Preview Content */,
+				F5BC6AC627BE69A600B55188 /* Bullseye_with_SwiftUIApp.swift */,
+				F5BC6AC827BE69A600B55188 /* ContentView.swift */,
+				F5BC6ACA27BE69A700B55188 /* Assets.xcassets */,
+				F5BC6ACC27BE69A700B55188 /* Preview Content */,
 			);
-			path = " SwiftUI";
+			path = "Bullseye with SwiftUI";
 			sourceTree = "<group>";
 		};
-		F5BC6AB227BE694800B55188 /* Preview Content */ = {
+		F5BC6ACC27BE69A700B55188 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				F5BC6AB327BE694800B55188 /* Preview Assets.xcassets */,
+				F5BC6ACD27BE69A700B55188 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -70,39 +70,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F5BC6AA827BE694700B55188 /*  SwiftUI */ = {
+		F5BC6AC227BE69A600B55188 /* Bullseye with SwiftUI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F5BC6AB727BE694800B55188 /* Build configuration list for PBXNativeTarget " SwiftUI" */;
+			buildConfigurationList = F5BC6AD127BE69A700B55188 /* Build configuration list for PBXNativeTarget "Bullseye with SwiftUI" */;
 			buildPhases = (
-				F5BC6AA527BE694700B55188 /* Sources */,
-				F5BC6AA627BE694700B55188 /* Frameworks */,
-				F5BC6AA727BE694700B55188 /* Resources */,
+				F5BC6ABF27BE69A600B55188 /* Sources */,
+				F5BC6AC027BE69A600B55188 /* Frameworks */,
+				F5BC6AC127BE69A600B55188 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = " SwiftUI";
-			productName = " SwiftUI";
-			productReference = F5BC6AA927BE694700B55188 /*  SwiftUI.app */;
+			name = "Bullseye with SwiftUI";
+			productName = "Bullseye with SwiftUI";
+			productReference = F5BC6AC327BE69A600B55188 /* Bullseye with SwiftUI.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F5BC6AA127BE694700B55188 /* Project object */ = {
+		F5BC6ABB27BE69A600B55188 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					F5BC6AA827BE694700B55188 = {
+					F5BC6AC227BE69A600B55188 = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
 				};
 			};
-			buildConfigurationList = F5BC6AA427BE694700B55188 /* Build configuration list for PBXProject " SwiftUI" */;
+			buildConfigurationList = F5BC6ABE27BE69A600B55188 /* Build configuration list for PBXProject "Bullseye with SwiftUI" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = F5BC6AA027BE694700B55188;
-			productRefGroup = F5BC6AAA27BE694700B55188 /* Products */;
+			mainGroup = F5BC6ABA27BE69A600B55188;
+			productRefGroup = F5BC6AC427BE69A600B55188 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F5BC6AA827BE694700B55188 /*  SwiftUI */,
+				F5BC6AC227BE69A600B55188 /* Bullseye with SwiftUI */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F5BC6AA727BE694700B55188 /* Resources */ = {
+		F5BC6AC127BE69A600B55188 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F5BC6AB427BE694800B55188 /* Preview Assets.xcassets in Resources */,
-				F5BC6AB127BE694800B55188 /* Assets.xcassets in Resources */,
+				F5BC6ACE27BE69A700B55188 /* Preview Assets.xcassets in Resources */,
+				F5BC6ACB27BE69A700B55188 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F5BC6AA527BE694700B55188 /* Sources */ = {
+		F5BC6ABF27BE69A600B55188 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F5BC6AAF27BE694700B55188 /* ContentView.swift in Sources */,
-				F5BC6AAD27BE694700B55188 /* _SwiftUIApp.swift in Sources */,
+				F5BC6AC927BE69A600B55188 /* ContentView.swift in Sources */,
+				F5BC6AC727BE69A600B55188 /* Bullseye_with_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		F5BC6AB527BE694800B55188 /* Debug */ = {
+		F5BC6ACF27BE69A700B55188 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -206,7 +206,7 @@
 			};
 			name = Debug;
 		};
-		F5BC6AB627BE694800B55188 /* Release */ = {
+		F5BC6AD027BE69A700B55188 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -261,14 +261,14 @@
 			};
 			name = Release;
 		};
-		F5BC6AB827BE694800B55188 /* Debug */ = {
+		F5BC6AD227BE69A700B55188 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\" SwiftUI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Bullseye with SwiftUI/Preview Content\"";
 				DEVELOPMENT_TEAM = JS662PHT46;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -282,7 +282,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Tony-Hong.-SwiftUI";
+				PRODUCT_BUNDLE_IDENTIFIER = "Tony-Hong.Bullseye-with-SwiftUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -290,14 +290,14 @@
 			};
 			name = Debug;
 		};
-		F5BC6AB927BE694800B55188 /* Release */ = {
+		F5BC6AD327BE69A700B55188 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\" SwiftUI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Bullseye with SwiftUI/Preview Content\"";
 				DEVELOPMENT_TEAM = JS662PHT46;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -311,7 +311,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Tony-Hong.-SwiftUI";
+				PRODUCT_BUNDLE_IDENTIFIER = "Tony-Hong.Bullseye-with-SwiftUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -322,25 +322,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F5BC6AA427BE694700B55188 /* Build configuration list for PBXProject " SwiftUI" */ = {
+		F5BC6ABE27BE69A600B55188 /* Build configuration list for PBXProject "Bullseye with SwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F5BC6AB527BE694800B55188 /* Debug */,
-				F5BC6AB627BE694800B55188 /* Release */,
+				F5BC6ACF27BE69A700B55188 /* Debug */,
+				F5BC6AD027BE69A700B55188 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F5BC6AB727BE694800B55188 /* Build configuration list for PBXNativeTarget " SwiftUI" */ = {
+		F5BC6AD127BE69A700B55188 /* Build configuration list for PBXNativeTarget "Bullseye with SwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F5BC6AB827BE694800B55188 /* Debug */,
-				F5BC6AB927BE694800B55188 /* Release */,
+				F5BC6AD227BE69A700B55188 /* Debug */,
+				F5BC6AD327BE69A700B55188 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F5BC6AA127BE694700B55188 /* Project object */;
+	rootObject = F5BC6ABB27BE69A600B55188 /* Project object */;
 }

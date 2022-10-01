@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//   SwiftUI
+//  Bullseye with SwiftUI
 //
 //  Created by Tony Hong on 2/17/22.
 //
